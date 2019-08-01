@@ -114,11 +114,9 @@ ORDER BY COST DESC
 /* Q10: Produce a list of facilities with a total revenue less than 1000.
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members! */
-SELECT facility_name, revenue FROM
+SELECT facility_name,SUM(COST) AS revenue FROM
 (
-	SELECT facility_name,SUM(COST) AS revenue, SUM(COST)<1000 FROM
-	(
-		SELECT 
+	SELECT 
 		`Facilities`.name AS facility_name,
 		(CASE WHEN `Members`.memid = 0 then `Bookings`.slots * `Facilities`.guestcost
  		ELSE `Bookings`.slots*`Facilities`.membercost
@@ -130,6 +128,5 @@ SELECT facility_name, revenue FROM
     
 	) AS t1
 	GROUP BY facility_name 
-) AS t2
-WHERE revenue < 1000
-ORDER BY revenue
+    HAVING SUM(COST)<1000
+    ORDER BY revenue
