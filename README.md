@@ -46,6 +46,15 @@
 </ol>
 
 <h3>Miscellaneous</h3></div>
+<ol>
+    
+   [Challenge of 'Ultimate' for predicting rider retention](https://github.com/Shunling/SpringBoard/tree/master/ultimate_challenge)
+
+   [Challenge of 'Relax' for predicting user engagement](https://github.com/Shunling/SpringBoard/tree/master/relax_challenge)
+   
+   [Natural Language Processing](http://localhost:8888/tree/Desktop/SpringBoard/NLP)
+</ol>
+
 <br>Additional materials for capstone project 1
 <ol>
     
