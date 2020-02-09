@@ -86,7 +86,7 @@
    
 <br><b> Natural Language Processing</b>
 
-   [Tutorial](https://github.com/Shunling/SpringBoard/blob/master/NLP/Word2Vec_GloVe_FastText_Tutuorial.ipynb)
+   [Word2Vec_GloVe_FastText_Tutuorial](https://github.com/Shunling/SpringBoard/blob/master/NLP/Word2Vec_GloVe_FastText_Tutuorial.ipynb)
 
 <br><b> Additional materials for capstone project 1</b>
     
