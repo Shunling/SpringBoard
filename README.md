@@ -66,7 +66,7 @@
 </ol>
 <h3>Miscellaneous</h3></div>
 <ol>
-<br><b>Challenge of 'Ultimate' for predicting rider retention</b>
+<br><b> Take_Home_Challenge of 'Ultimate' for predicting rider retention</b>
     
    [Folder](https://github.com/Shunling/SpringBoard/tree/master/ultimate_challenge)
    
@@ -76,7 +76,7 @@
    
    [solution_report](https://github.com/Shunling/SpringBoard/blob/master/ultimate_challenge/Ultimate_challenge_solution.pdf)
 
-<br><b> Challenge of 'Relax' for predicting user engagement</b>
+<br><b> Take_Home_Challenge of 'Relax' for predicting user engagement</b>
     
    [Folder](https://github.com/Shunling/SpringBoard/tree/master/relax_challenge)
    
@@ -89,7 +89,6 @@
    [Tutorial](https://github.com/Shunling/SpringBoard/blob/master/NLP/Word2Vec_GloVe_FastText_Tutuorial.ipynb)
 
 <br><b> Additional materials for capstone project 1</b>
-
     
    [house_prices_advanced_regression_techniques](https://github.com/Shunling/SpringBoard/tree/master/house-prices-advanced-regression-techniques)
 
