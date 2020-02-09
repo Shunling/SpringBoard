@@ -6,7 +6,7 @@
 <b>In this repository, we have the following mini projects covering full stack Data Science training:</b>
 
 <h3>Statistics</h3></div>
-<ol>
+
 <br><h4> Baysian Inference</h4>
 
    [Folder](https://github.com/Shunling/SpringBoard/tree/master/Bayesian_stats_Q6.28)
@@ -30,9 +30,9 @@
 <br><h4> Python_statistics_essential</h4>
  
   [Folder](https://github.com/Shunling/SpringBoard/tree/master/Practices/Python_statistics_essential)
-</ol>
+
 <h3>Data Wrangling</h3></div>
-<ol>
+
 <br><h4> SQL_mini_project</h4>
 
    [Folder](https://github.com/Shunling/SpringBoard/tree/master/SQL_mini_project)
@@ -49,8 +49,8 @@
 
    [folder](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
   
-  [Qunadl API_practice](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
-</ol>
+  [Qunadl API practice](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
+
 <h3>Machine learning</h3></div>
 <ol>    
    
