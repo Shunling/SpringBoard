@@ -87,12 +87,12 @@
 <br><b> Natural Language Processing</b>
 
    [Tutorial](https://github.com/Shunling/SpringBoard/blob/master/NLP/Word2Vec_GloVe_FastText_Tutuorial.ipynb)
-</ol>
+
 <br><b> Additional materials for capstone project 1</b>
-<ol>
+
     
    [house_prices_advanced_regression_techniques](https://github.com/Shunling/SpringBoard/tree/master/house-prices-advanced-regression-techniques)
 
-
+</ol>
 
 
