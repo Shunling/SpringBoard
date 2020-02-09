@@ -6,9 +6,7 @@
 <b>In this repository, we have the following mini projects covering full stack Data Science training:</b>
 
 <h3>Statistics</h3></div>
-
 <ol>
-
 <br><h4> Baysian Inference</h4>
 
    [Folder](https://github.com/Shunling/SpringBoard/tree/master/Bayesian_stats_Q6.28)
@@ -32,9 +30,7 @@
 <br><h4> Python_statistics_essential</h4>
  
   [Folder](https://github.com/Shunling/SpringBoard/tree/master/Practices/Python_statistics_essential)
-
 </ol>
-
 <h3>Data Wrangling</h3></div>
 <ol>
 <br><h4> SQL_mini_project</h4>
@@ -54,11 +50,10 @@
    [folder](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
   
   [Qunadl API_practice](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
-
 </ol>
-    
 <h3>Machine learning</h3></div>
 <ol>    
+   
    [linear_regression](https://github.com/Shunling/SpringBoard/blob/master/linear_regression/Mini_Project_Linear_Regression.ipynb)
 
    [logistic_regression](https://github.com/Shunling/SpringBoard/blob/master/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
@@ -68,9 +63,7 @@
    [clustering](https://github.com/Shunling/SpringBoard/blob/master/clustering/Mini_Project_Clustering.ipynb)
 
    [Principal component analysis](https://github.com/Shunling/SpringBoard/blob/master/PCA_analysis.ipynb)
-
 </ol>
-
 <h3>Miscellaneous</h3></div>
 <ol>
 <br><h4>Challenge of 'Ultimate' for predicting rider retention</h4>
