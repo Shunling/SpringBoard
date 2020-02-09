@@ -23,9 +23,9 @@
 
    [Folder](https://github.com/Shunling/SpringBoard/tree/master/inferential_statistics_frequentist_mini-projects6.28.19)
    
-   [Normal distribution and sampling](https://github.com/Shunling/SpringBoard/blob/master/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1a-Q6.25.ipynb)
+   [Normal_distribution_and_sampling](https://github.com/Shunling/SpringBoard/blob/master/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1a-Q6.25.ipynb)
    
-   [Hypothesis testing](https://github.com/Shunling/SpringBoard/blob/master/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1b-Q6.25-2.ipynb)
+   [Hypothesis_testing](https://github.com/Shunling/SpringBoard/blob/master/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1b-Q6.25-2.ipynb)
    
 <br><b> Python_statistics_essential</b>
  
@@ -49,7 +49,7 @@
 
    [folder](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
   
-  [Qunadl API practice](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
+  [Qunadl_API_practice](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
 </ol>
 <h3>Machine learning</h3></div>
 <ol>    
@@ -62,7 +62,7 @@
 
    [clustering](https://github.com/Shunling/SpringBoard/blob/master/clustering/Mini_Project_Clustering.ipynb)
 
-   [Principal component analysis](https://github.com/Shunling/SpringBoard/blob/master/PCA_analysis.ipynb)
+   [Principal_component_analysis](https://github.com/Shunling/SpringBoard/blob/master/PCA_analysis.ipynb)
 </ol>
 <h3>Miscellaneous</h3></div>
 <ol>
@@ -70,7 +70,7 @@
     
    [Folder](https://github.com/Shunling/SpringBoard/tree/master/ultimate_challenge)
    
-   [Challenge guidline](https://github.com/Shunling/SpringBoard/blob/master/ultimate_challenge/ultimate_data_science_challenge.pdf)
+   [Challenge_guidline](https://github.com/Shunling/SpringBoard/blob/master/ultimate_challenge/ultimate_data_science_challenge.pdf)
    
    [solution_notebook](https://github.com/Shunling/SpringBoard/blob/master/ultimate_challenge/Ultimate_challenge.ipynb)
    
@@ -91,7 +91,7 @@
 <br><b> Additional materials for capstone project 1</b>
 <ol>
     
-   [house-prices-advanced-regression-techniques](https://github.com/Shunling/SpringBoard/tree/master/house-prices-advanced-regression-techniques)
+   [house_prices_advanced_regression_techniques](https://github.com/Shunling/SpringBoard/tree/master/house-prices-advanced-regression-techniques)
 
 
 
