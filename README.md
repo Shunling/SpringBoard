@@ -50,7 +50,7 @@
    [folder](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
   
   [Qunadl API practice](https://github.com/Shunling/SpringBoard/blob/master/api_data_wrangling_mini_project.ipynb)
-<ol>
+</ol>
 <h3>Machine learning</h3></div>
 <ol>    
    
