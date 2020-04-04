@@ -1,4 +1,4 @@
-# Data Challenge 1
+# Data Challenge:  predicting user engagement for the company 'Relax'
 
 ## Data Science Career Track Bootcamp on SpringBoard: 07.2019 - 12.2019
 ***
